@@ -8,8 +8,6 @@ import pylab as pl
 from sklearn import datasets
 from sklearn.tree import DecisionTreeRegressor
 
-get_ipython().magic(u'matplotlib inline')
-
 ################################
 ### ADD EXTRA LIBRARIES HERE ###
 ################################
